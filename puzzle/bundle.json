@@ -1,0 +1,66 @@
+{
+    "name": "puzzle",
+    "version": 1,
+    "textures": [
+        {
+            "name": "puzzle1",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "name": "puzzle2",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "name": "puzzle3",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "name": "puzzle4",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "name": "puzzle5",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "name": "puzzle6",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "name": "puzzle7",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "name": "puzzle8",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "name": "puzzle9",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "name": "puzzle10",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "name": "puzzle11",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "name": "puzzle12",
+            "width": 1024,
+            "height": 1024
+        }
+    ]
+}
